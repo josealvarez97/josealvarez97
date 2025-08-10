@@ -21,7 +21,7 @@ A demo of my AI-powered simulation platform, built from scratch to run complex p
 
 ### **The Green Card Game** – Featured on NewsNation  
 An interactive explainer of U.S. immigration law for the Cato Institute.  
-I designed a **visual programming language** with Neo4j + React Flow to build 800+ screens — editable by non-technical users.  
+[I also designed a **visual programming language** with Neo4j + React Flow to build 800+ screens — editable by non-technical users.](https://www.loom.com/share/d945ee7e827e405cb989b343e63b65af)  
 [![The Green Card Game on NewsNation](https://img.youtube.com/vi/haURM3eoMiI/hqdefault.jpg)](https://www.youtube.com/watch?v=haURM3eoMiI)  
 
 ### **ReadingClub.ai** – Write & illustrate a children’s story in under 10 minutes  
