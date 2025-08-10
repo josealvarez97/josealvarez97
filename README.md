@@ -8,7 +8,7 @@
 ## 🚀 AI4Science – Cloud + Physics + AI Agents
 
 ### **Cloud-native platform for Physics-Informed Neural Networks (PINNs)**
-A demo of my AI-powered simulation platform, built from scratch to run complex physics simulations in the cloud.  
+An early prototype of my AI-powered simulation platform, built from scratch to run complex physics simulations in the cloud.  
 [![TecunTecs AI for Physics Simulations](https://img.youtube.com/vi/v7Bz5NUAxP0/hqdefault.jpg)](https://www.youtube.com/watch?v=v7Bz5NUAxP0)
 
 ### **2-hour NVIDIA Modulus Crash Course**  
