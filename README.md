@@ -12,7 +12,7 @@ An early prototype of my AI-powered simulation platform, built from scratch to r
 [![TecunTecs AI for Physics Simulations](https://img.youtube.com/vi/v7Bz5NUAxP0/hqdefault.jpg)](https://www.youtube.com/watch?v=v7Bz5NUAxP0)
 
 ### **2-hour NVIDIA Modulus Crash Course**  
-*5.8k+ views, 150+ likes* — teaching scientists & engineers to run PINN simulations with NVIDIA’s framework.  
+*6.4k+ views, 160+ likes* — teaching scientists & engineers to run PINN simulations with NVIDIA’s framework.  
 [![NVIDIA Modulus Crash Course](https://img.youtube.com/vi/te39qrgQ-Ao/hqdefault.jpg)](https://www.youtube.com/watch?v=te39qrgQ-Ao)
 
 ---
