@@ -39,7 +39,7 @@ An interactive explainer of U.S. immigration law for the Cato Institute.
 
 ### 2018-2019: **MattBots** – Game-based learning for number sense  
 
-I'm proud of the fact that I started building MattBots by the end of my freshman year, and completed most of it before starting my second year at Minerva University. I was young, dind't know how to use Unity or publish an app on the Play Store or App Store, but I learned it fast.
+I'm proud of the fact that I started building MattBots by the end of my freshman year at Minerva University, and completed most of it before starting my sophomore year. I was young, dind't know how to use Unity or publish an app on the Play Store or App Store, but I learned it fast.
 
 [![MattBots Game Trailer – Game-Based Learning](https://img.youtube.com/vi/caiaxZvG4dI/hqdefault.jpg)](https://www.youtube.com/watch?v=caiaxZvG4dI)
 
