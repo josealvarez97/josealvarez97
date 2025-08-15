@@ -43,6 +43,18 @@ I'm proud of the fact that I started building MattBots by the end of my freshman
 
 [![MattBots Game Trailer – Game-Based Learning](https://img.youtube.com/vi/caiaxZvG4dI/hqdefault.jpg)](https://www.youtube.com/watch?v=caiaxZvG4dI)
 
+### 2025: Fluent by 1000 — An AI-Powered Chinese Bible Learning Tool
+
+<div>
+    <a href="https://www.loom.com/share/ce37f46a6f35490fb5d9e938f920b319">
+    </a>
+    <a href="https://www.loom.com/share/ce37f46a6f35490fb5d9e938f920b319">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ce37f46a6f35490fb5d9e938f920b319-37d14a3273d858a7-full-play.gif">
+    </a>
+  </div>
+
+
+
 <!--
 **josealvarez97/josealvarez97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
